@@ -1,6 +1,7 @@
 # Homebrew tap for Ledge
 
 ```sh
+brew tap notsocj/ledge && brew trust notsocj/ledge
 brew install --cask notsocj/ledge/ledge
 ```
 
